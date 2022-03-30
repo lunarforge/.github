@@ -1,8 +1,8 @@
 ### 🤝 Need some help?
 
-We specialize in
+We specialise in
 
-- Bespoke specialised enterprise systems, where COTS does not fit.
+- Bespoke enterprise systems, whe start where COTS ends.
 - Fintech, Payment, Mobile App, USSD, SMS  
 - Data science: Making sense of your data, pipelines and analytics
 - Machine learning and AI
