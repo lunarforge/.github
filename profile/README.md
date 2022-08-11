@@ -4,7 +4,7 @@ We specialise in
 
 - Bespoke enterprise systems, whe start where COTS ends.
 - Fintech, E-Commerce, Payment, Mobile, USSD, SMS  
-- Data science: Making sense of your data, pipelines and analytics
+- Data science: Making sense of your data. lakes, ingestion, pipelines and analytics
 - Machine learning and AI
 - Embedded systems, IOT, UI and interfacing
 
