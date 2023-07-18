@@ -8,7 +8,7 @@ specialise in:
 - Machine learning and AI
 - Embedded systems, IOT, UI and interfacing
 - Fun stuff https://makersfusion.blogspot.com
-Contact us at [📬 Lunarforge](mailto:hannes@nbs.com.na).
+Contact at [📬 Lunarforge](mailto:hannes@nbs.com.na).
 
 <!--
 
