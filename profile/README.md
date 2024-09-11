@@ -2,8 +2,8 @@
 
 specialise in:
 
-- Bespoke enterprise systems; no COTS available? no problem!
-- Fintech, E-Commerce, Payments, Mobile, USSD, SMS.
+- Bespoke enterprise systems; COTS not doing what I want? no problem!
+- Fintech, IoT, E-Commerce, Payments, Mobile
 - Data science: Making sense of your data. lakes, ingestion, pipelines and analytics
 - Machine learning and AI
 - Embedded systems, IOT, UI and interfacing
