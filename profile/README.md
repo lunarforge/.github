@@ -6,7 +6,7 @@ specialise in:
 - Fintech, IoT, E-Commerce, Payments, Mobile
 - Data science: Making sense of your data. lakes, ingestion, pipelines and analytics
 - Machine learning and AI
-- Embedded systems, IOT, UI and interfacing
+- Embedded systems, IOT, UI and hardware integration and interfacing
 - Fun stuff https://makersfusion.blogspot.com
 Contact at [📬 Lunarforge](mailto:hannes@nbs.com.na).
 
